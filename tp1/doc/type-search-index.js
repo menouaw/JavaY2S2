@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"khatchatrian.menoua.classe2","l":"Articles"},{"p":"khatchatrian.menoua.classe2","l":"Launcher"},{"p":"khatchatrian.menoua.classe2","l":"ListeDeCourses"}];updateSearchResults();
